@@ -1,0 +1,2 @@
+# Lowest-ID-Clustering-Algorithm
+Developed a system that enables the wireless communication among vehicles to ensure secure, reliable and efficient traffic management. Ran simulations to achieve performance evaluation of clustering with an event based simulator called Object Modular Network TestBed in C++ (OMNet++), a road traffic simulator called, Simulation of Urban Mobility(SUMO) and open source Inter-Vehicular Communication (IVC) simulation framework called, Veins.
